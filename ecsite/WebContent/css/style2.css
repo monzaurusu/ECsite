@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+
+.a{
+    margin: 0 auto;
+	border: 1px solid black;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 80px;
+}
+.b{
+
+	border: 1px solid black;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 80px;
+}
